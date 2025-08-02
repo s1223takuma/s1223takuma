@@ -11,6 +11,7 @@ Also have some experience with **Python** for scripting and automation.
 - 📱 Swift / SwiftUI / UIKit  
 - 🔥 Firebase (Auth, Firestore, Storage)  
 - 🐍 Python (basic scripting, automation)
+- 🔍 Google Apps Script (automtation,Discord API)
 - 🧪 Tools: Xcode / Git / Figma
 
 ---
