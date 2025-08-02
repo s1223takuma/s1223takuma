@@ -1,4 +1,4 @@
-# About Me
+# Hi I'm Takuma!
 
 1. I'm a Ios app developer from Japan
 
