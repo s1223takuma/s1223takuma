@@ -35,7 +35,7 @@ Also have some experience with **Python** for scripting and automation.
 
 ## 📫 Let's Connect
 
-- Twitter: [@s1223takuma](https://twitter.com/s1223takuma)
+- Twitter: [@soda_saida](https://twitter.com/soda_saida)
 - GitHub: [s1223takuma](https://github.com/s1223takuma)
 
 ---
