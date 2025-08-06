@@ -10,13 +10,13 @@
 
 ```swift
 struct Developer {
-    let name = "Takuma (琢磨)"
+    let name = "Takuma (拓磨)"
     let location = "Japan 🇯🇵"
     let focus = ["iOS Development", "Productivity Apps", "Clean Architecture"]
     let experience = ["Python: 3.5 years", "Swift: 3 years", "GAS: 2 years"]
     let currentlyLearning = ["Advanced SwiftUI", "App Store Optimization"]
     let englishLevel = "Still learning... 📚"
-    let motto = "Code with passion, build with purpose"
+    let pastProjects = ["Simple SNS App", "Discord Bot", "Spreadsheet Automation"]
 }
 ```
 
@@ -50,17 +50,23 @@ I'm passionate about creating **productivity-focused iOS apps** that make people
 
 ## 💼 Development Experience
 
-### 🎯 **Productivity Apps (生産性アプリ)**
+### 🎯 **Current Focus: Productivity Apps (生産性アプリ)**
 - 📱 Native iOS apps with SwiftUI
 - 🔥 Real-time data sync with Firebase
 - 🔐 User authentication with Firebase Auth
 - 🎨 Clean and intuitive UI/UX design
 
+### 🛠️ **Past Projects**
+- **📱 Simple SNS App** - iOS social media app with user interactions
+- **🤖 Discord Bot** - Automated bot using Python for server management
+- **📊 Spreadsheet Automation** - Google Apps Script for data processing and workflow automation
+- **🔗 Webhook Integration** - Discord webhook automation for notifications
+
 ### 📊 **Technical Skills**
 - **Clean Architecture** implementation
 - **MVVM Pattern** for code organization
 - **Firebase Firestore** database design
-- **Private Repository** management
+- **API Integration** and webhook management
 
 ---
 
@@ -126,7 +132,6 @@ I'm passionate about creating **productivity-focused iOS apps** that make people
 - Firebase optimization
 - App Store publishing process
 - Performance optimization
-- **English** (still working on it! 😅)
 
 ---
 
@@ -142,6 +147,10 @@ I'm passionate about creating **productivity-focused iOS apps** that make people
 ---
 
 <div align="center">
+
+### 🌊 *"Always learning. Always building. Always improving."*
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=s1223takuma&color=blueviolet&style=flat-square)
 
