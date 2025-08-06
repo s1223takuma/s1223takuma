@@ -12,7 +12,7 @@
 
 ```swift
 struct Developer {
-    let name = "Takuma (拓磨)"
+    let name = "Takuma"
     let location = "Japan 🇯🇵"
     let focus = ["iOS Development", "Productivity Apps", "Clean Architecture"]
     let experience = ["Python: 3.5 years", "Swift: 3 years", "GAS: 2 years"]
@@ -52,7 +52,7 @@ I'm passionate about creating **productivity-focused iOS apps** that make people
 
 ## 💼 Development Experience
 
-### 🎯 **Current Focus: Productivity Apps (生産性アプリ)**
+### 🎯 **Current Focus: Productivity Apps**
 - 📱 Native iOS apps with SwiftUI
 - 🔥 Real-time data sync with Firebase
 - 🔐 User authentication with Firebase Auth
