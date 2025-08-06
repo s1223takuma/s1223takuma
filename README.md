@@ -4,6 +4,8 @@
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=iOS+Developer+from+Japan+%F0%9F%87%AF%F0%9F%87%B5;Building+Productivity+Apps;Swift+%7C+SwiftUI+%7C+Firebase;Always+Learning%2C+Always+Building+%F0%9F%9A%80)
 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif">
+
 </div>
 
 ## 🚀 About Me
@@ -147,10 +149,6 @@ I'm passionate about creating **productivity-focused iOS apps** that make people
 ---
 
 <div align="center">
-
-### 🌊 *"Always learning. Always building. Always improving."*
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=s1223takuma&color=blueviolet&style=flat-square)
 
