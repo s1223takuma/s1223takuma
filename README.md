@@ -85,8 +85,6 @@ I'm passionate about creating **productivity-focused iOS apps** that make people
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=s1223takuma&theme=tokyonight&border_radius=10)
-
 </div>
 
 ---
