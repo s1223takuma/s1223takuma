@@ -76,10 +76,15 @@ I'm passionate about creating **productivity-focused iOS apps** that make people
 ## 📈 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=s1223takuma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1223takuma&layout=compact&theme=tokyonight&border_radius=10"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s1223takuma&theme=nord_dark"/>
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=s1223takuma&theme=nord_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=s1223takuma&theme=nord_dark"/>
+</div>
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=s1223takuma&theme=nord_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=s1223takuma&theme=nord_dark&utc_offset=9"/>
+</div>
 
 </div>
 
