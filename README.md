@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Takuma!
+# Hi, I'm Takuma!
 
 <div align="center">
   
