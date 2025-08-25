@@ -1,9 +1,12 @@
 name: Generate Snake
 
 on:
-  schedule: # 毎日0時(JSTだと9時)に実行
-    - cron: "0 0 * * *"
-  workflow_dispatch: # 手動でも実行可能
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *" # 毎日実行
+
+permissions:
+  contents: write   # これを必ず追加！
 
 jobs:
   build:
@@ -28,3 +31,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
