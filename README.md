@@ -39,6 +39,7 @@ I'm passionate about creating **productivity-focused iOS apps** that make people
 ### 🔥 **Backend & Services**
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Firestore](https://img.shields.io/badge/Firestore-FFA611?style=for-the-badge&logo=firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-6495ED?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🐍 **Other Technologies**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
