@@ -87,7 +87,7 @@ I'm passionate about creating **productivity-focused iOS apps** that make people
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=s1223takuma&theme=nord_dark"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=s1223takuma&theme=nord_dark&utc_offset=9"/>
 </div>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s1223takuma&count_private=true&show_icons=true&theme=nord_dark"/>
 </div>
 
 <div align="center">
