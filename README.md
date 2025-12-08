@@ -6,7 +6,6 @@
 
 <img src="https://raw.githubusercontent.com/s1223takuma/s1223takuma/output/snake.svg" alt="snake gif">
 
-
 </div>
 
 ## 🚀 About Me
@@ -15,12 +14,13 @@
 struct Developer {
     let name = "Takuma"
     let location = "Japan 🇯🇵"
-    let focus = ["iOS Development", "Productivity Apps", "Clean Architecture"]
+    let focus = ["iOS Development", "Productivity Apps", "Clean Architecture", "AI Model Development"]
     let experience = ["Python: 3.5 years", "Swift: 3 years", "GAS: 2 years"]
-    let currentlyLearning = ["Advanced SwiftUI", "App Store Optimization"]
+    let currentlyLearning = ["Advanced SwiftUI", "App Store Optimization", "Practical ML/Model Training"]
     let englishLevel = "Still learning... 📚"
     let pastProjects = ["Simple SNS App", "Discord Bot", "Spreadsheet Automation"]
 }
+
 ```
 
 I'm passionate about creating **productivity-focused iOS apps** that make people's daily life better. As an individual developer (個人開発者), I focus on building clean and intuitive applications using modern Swift technologies.
